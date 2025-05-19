@@ -72,3 +72,100 @@ body{
     font-size: 15px;
     color: #a59999;
 }
+/*vision*/
+.vision-section{
+    padding: 50px;
+}
+.vision-title p{
+    font-size: 15px;
+    color: #a59999;
+}
+.vivion-hed{
+    display: flex;
+    justify-content: space-around;
+}
+.vivion-nill h2{
+        font-size: 19px;
+
+}
+.vivion-nill p{
+     font-size: 15px;
+    color: #a59999;
+}
+.vivion-nill button{
+    background:#538ff5 ;
+    color: white;
+    border: 1px solid#538ff5;
+    border-radius: 5px;
+    padding: 8px;
+}
+.vivion-green h2{
+     font-size: 19px;
+
+}
+.vivion-green p{
+     font-size: 15px;
+    color: #a59999;
+}
+.vivion-green button{
+    background:#09a15c ;
+    color: white;
+    border: 1px solid#09a15c;
+    border-radius: 5px;
+    padding: 8px;
+}
+.vivion-holud h2{
+         font-size: 19px;
+
+}
+.vivion-holud p{
+ font-size: 15px;
+    color: #a59999;
+ }
+.vivion-holud button{
+    background:#ffc238 ;
+    color: white;
+    border: 1px solid#ffc238;
+    border-radius: 5px;
+    padding: 8px;
+}
+.vivion-nill{
+    background:#d5e1f5 ;
+    margin-right: 20px;
+    padding: 20px;
+}
+.vivion-holud{
+        background:#eae0c5;
+    padding: 20px;
+
+}
+.vivion-green {
+background:#c6e3d5 ;
+    margin-right: 20px;
+    padding: 20px;
+
+}
+
+/*para*/
+.para{
+    padding: 50px;
+    background: white;
+    margin-left: 35px;
+    margin-right: 35px;
+    
+}
+.parag{
+   background-image: url('assets/quote-bg.png');
+    background-repeat: no-repeat;
+}
+.parag p{
+    font-size: 15px;
+    color: #a59999; 
+}
+.parag h3{
+        font-size: 19px;
+ 
+}
+.para1{
+    font-size: 13px;
+}

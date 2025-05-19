@@ -1,0 +1,50 @@
+
+.open-sans-notmal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.banner-section{
+    padding: 50px;
+}
+.top-banner{
+    display: flex;
+     align-items: center;
+    justify-content: space-between;
+
+}
+.banner-top-btn{
+    background: white;
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid #95cfb4;
+    color: #48ca8d;
+}
+.banner{
+    background: #c8eedc;
+    display: flex;
+        justify-content: space-between;
+        padding: 20px;
+
+}
+.pic-1{
+    height: 300px;
+}
+.banner-title h4{
+    color:#9e9e9e;
+    font-size: 15px;
+}
+.primary-btn{
+    background:#006a50 ;
+    color: white;
+    border: 1px solid #006a50;
+    border-radius: 5px;
+    padding: 8px;
+}
+.banner-title h1{
+    font-size: 45px;
+    line-height: 55px;
+    font-weight: 700;
+}

@@ -1,4 +1,7 @@
 
+body{
+    background: #f5f5f5;
+}
 .open-sans-notmal {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -47,4 +50,25 @@
     font-size: 45px;
     line-height: 55px;
     font-weight: 700;
+}
+/*pillaar*/
+.pillar-section{
+    padding-left:50px;
+    padding-right: 50px;
+}
+.pillar-hed{
+    display: flex;
+    justify-content: space-around;
+}
+.pillar{
+    background: white;
+    margin-right: 20px;
+    padding: 20px;
+}
+.pillar h4{
+    font-size: 19px;
+}
+.pillar p{
+    font-size: 15px;
+    color: #a59999;
 }

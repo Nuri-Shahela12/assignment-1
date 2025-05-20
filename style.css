@@ -238,3 +238,28 @@ font-size: 15px;
 .donate-bottom{
     text-align: center;
 }
+/*sub-section*/
+.sub-section{
+    padding: 50px;
+    background: #c6e3d5;
+    border-radius: 20px;
+
+}
+.sub-box{
+    text-align: center;
+}
+.sub-box p{
+     font-size: 15px;
+    color: #a59999;
+}
+.sub-button{
+    background: white;
+    margin-left: 30px;
+}
+/*bottom*/
+.footer-section{
+    background: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}

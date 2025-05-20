@@ -169,3 +169,27 @@ background:#c6e3d5 ;
 .para1{
     font-size: 13px;
 }
+/*recent-section*/
+.recent-section{
+    padding: 50px;
+}
+.recent-title p{
+font-size: 15px;
+    color: #a59999;
+}
+.recent-box1{
+    display:flex ;
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.box-title{
+    padding-left: 20px;
+}
+.box-title{
+    font-size: 17px;
+}
+.box-title p{
+font-size: 15px;
+    color: #a59999;
+}

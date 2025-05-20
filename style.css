@@ -193,3 +193,48 @@ font-size: 15px;
 font-size: 15px;
     color: #a59999;
 }
+/*donate*/
+.donate-section{
+    padding: 50px;
+}
+.donate-title{
+    text-align: center;
+}
+.donate-title p{
+    font-size: 15px;
+    color: #a59999;
+}
+.donate-box{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom:30px ;
+}
+.donate-item{
+    background: white;
+    margin-left:20px ;
+    padding: 30px;
+    border-radius: 20px;
+}
+.donate-item2{
+    background: #c6e3d5;
+    margin-left:20px ;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+.donate-other{
+    background: white;
+    color:#c7c7c7 ;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+.primary-btn2{
+    background:#006a50 ;
+    color: white;
+    border: 1px solid #006a50;
+    border-radius: 5px;
+    padding: 8px;
+}
+.donate-bottom{
+    text-align: center;
+}
